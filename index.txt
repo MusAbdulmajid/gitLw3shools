@@ -4,3 +4,5 @@ rel="stylesheet" href="bluestyle.css"
 Hello world!
 
 This is the first file in my new git repo for lerning git with w3shools.
+
+A new line in our file!

@@ -7,3 +7,5 @@ style="width:100%;max-width:960px"
 This is the first file in my new git repo for lerning git with w3shools.
 
 A new line in our file!
+img src="img_hello_world.jpg" alt="Hello git"
+style="width:100%;max-width:640px"

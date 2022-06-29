@@ -2,7 +2,8 @@ Hello World!
 rel="stylesheet" href="bluestyle.css"
 
 Hello world!
-
+img src="img_hello_world.jpg" alt="Hello World form Space"
+style="width:100%;max-width:960px"
 This is the first file in my new git repo for lerning git with w3shools.
 
 A new line in our file!
